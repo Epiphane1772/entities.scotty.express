@@ -1,0 +1,18 @@
+{
+    "name": "stephanelefebvre/user.scotty.express",
+    "description": "User entity library",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Stephanelefebvre\\UserScottyExpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "User entity library"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
